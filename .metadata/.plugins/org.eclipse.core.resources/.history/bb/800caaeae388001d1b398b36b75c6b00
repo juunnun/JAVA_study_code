@@ -1,0 +1,11 @@
+
+public class Rental {
+	private Movie movie;
+	public int daysRented;
+	public int getFrequentRentersPoints() {
+		return
+				movie.getFrequentRenterPoints(daysRented);
+	}
+
+}
+
