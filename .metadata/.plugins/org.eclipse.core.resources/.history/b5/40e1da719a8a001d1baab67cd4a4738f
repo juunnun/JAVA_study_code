@@ -1,8 +1,5 @@
 
-public class Rental
-	extends Movie
-	implements Thread{
-	
+public class Rental {
 	
 	public int daysRented;
 	Movie m2 = new Movie();

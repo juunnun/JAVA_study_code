@@ -1,9 +1,11 @@
 content_assist_autoactivation_triggers_java=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.opentutorials.iot.Elevator"><rhs name\="org.opentutorials.iot.Elevator"/></lhs><lhs name\="org.opentutorials.iot.OnOff"><rhs name\="org.opentutorials.iot.Security"/><rhs name\="org.opentutorials.iot.Lighting"/><rhs name\="org.opentutorials.iot.DimmingLights"/></lhs><lhs name\="org.opentutorials.iot.Security"><rhs name\="org.opentutorials.iot.Security"/></lhs><lhs name\="org.opentutorials.iot.Lighting"><rhs name\="org.opentutorials.iot.Lighting"/><rhs name\="org.opentutorials.iot.DimmingLights"/></lhs><lhs name\="org.opentutorials.iot.DimmingLights"><rhs name\="org.opentutorials.iot.DimmingLights"/></lhs><lhs name\="Print"><rhs name\="Print"/></lhs></history>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.opentutorials.iot.Elevator"><rhs name\="org.opentutorials.iot.Elevator"/></lhs><lhs name\="org.opentutorials.iot.OnOff"><rhs name\="org.opentutorials.iot.Security"/><rhs name\="org.opentutorials.iot.Lighting"/><rhs name\="org.opentutorials.iot.DimmingLights"/></lhs><lhs name\="org.opentutorials.iot.Security"><rhs name\="org.opentutorials.iot.Security"/></lhs><lhs name\="org.opentutorials.iot.Lighting"><rhs name\="org.opentutorials.iot.Lighting"/><rhs name\="org.opentutorials.iot.DimmingLights"/></lhs><lhs name\="org.opentutorials.iot.DimmingLights"><rhs name\="org.opentutorials.iot.DimmingLights"/></lhs><lhs name\="Print"><rhs name\="Print"/></lhs><lhs name\="Rental"><rhs name\="Rental"/></lhs><lhs name\="Movie"><rhs name\="Movie"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs></history>
 content_assist_number_of_computers=12
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
 eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
 org.eclipse.jdt.ui.formatterprofiles.version=22
 sourceHoverBackgroundColor=255,255,225
 spelling_locale_initialized=true
