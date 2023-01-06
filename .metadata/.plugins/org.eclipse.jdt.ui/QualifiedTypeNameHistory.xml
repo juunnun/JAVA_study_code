@@ -22,11 +22,13 @@
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="FileInfo"/>
     <fullyQualifiedTypeName name="DropBoxFileSystem"/>
-    <fullyQualifiedTypeName name="java.security.PublicKey"/>
     <fullyQualifiedTypeName name="CloudID"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Member"/>
     <fullyQualifiedTypeName name="javax.naming.spi.DirStateFactory.Result"/>
+    <fullyQualifiedTypeName name="UserRegistService"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="ScheduleService"/>
 </qualifiedTypeNameHistroy>
